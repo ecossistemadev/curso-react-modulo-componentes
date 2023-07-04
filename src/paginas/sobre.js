@@ -10,7 +10,7 @@ export default function SobrePagina() {
                 Fusce ultricies cursus gravida. Curabitur porttitor, nunc id vestibulum tincidunt, nibh neque mattis risus, id laoreet urna elit in velit. Nunc mollis enim eu turpis commodo, non finibus ante vestibulum. Proin in massa lectus. Ut volutpat sed nisi eget facilisis. In sapien nisi, ultrices sed semper non, ultrices eget nibh. Phasellus velit tellus, ultricies non sem sed, interdum accumsan neque. Aliquam dictum est sit amet vestibulum pretium.
 
                 Curabitur convallis eget dolor ut rhoncus. Aenean eget risus et augue interdum lacinia ac non est. In malesuada lectus non risus fringilla ultrices. Phasellus sit amet sagittis arcu. Aliquam et interdum urna, sit amet posuere purus. Nulla id suscipit eros, quis cursus sem. Nunc euismod nec nulla a vehicula. In tellus mauris, bibendum posuere malesuada at, congue eget urna. Vestibulum vehicula, justo vitae interdum condimentum, tellus nunc vulputate enim, vitae cursus justo erat sit amet quam. Curabitur in eros dapibus lorem posuere porttitor in tempus risus. Morbi congue quam nec pretium placerat. Sed porttitor ornare nulla ac commodo. Etiam aliquam turpis ut erat consequat, vel pellentesque massa vulputate. Nam diam lectus, ullamcorper eu viverra ac, malesuada ut felis. Curabitur egestas dapibus porttitor. Phasellus pellentesque leo quis nunc viverra, vitae posuere urna viverra.</p>
-            <BotaoComponente/>
+            <BotaoComponente titulo="Clique para saber mais"/>
         </>
     )
 }

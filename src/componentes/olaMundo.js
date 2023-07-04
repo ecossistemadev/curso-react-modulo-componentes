@@ -1,4 +1,3 @@
-import BotaoComponente from "./botao";
 
 export default function OlaMundoComponente(){
 

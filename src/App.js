@@ -1,14 +1,12 @@
 import './App.css';
-import SobrePagina from './paginas/sobre';
+import BotaoComponente from './componentes/botao';
+import ListaProdutosPagina from './paginas/listaProdutos';
+
 
 function App() {
   return (
     <>
-
-      <SobrePagina/>
-
-
-
+    <ListaProdutosPagina/>
     </>
   );
 }
